@@ -1,7 +1,7 @@
 # language: fr
   Fonctionnalité: gestion Produit
 
-    Scénario: calcule prix Total
+    Plan du Scénario: calcule prix Total
       Etant donné les produit en stock
         | produit  | <produit> |
         | prix     | <prix>    |
